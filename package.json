@@ -1,0 +1,26 @@
+{
+  "name": "node.js-init",
+  "version": "1.0.0",
+  "description": "My first node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkUA-top/node.js-init.git"
+  },
+  "author": "Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkUA-top/node.js-init/issues"
+  },
+  "homepage": "https://github.com/MarkUA-top/node.js-init#readme",
+  "dependencies": {
+    "build": "^0.1.4",
+    "parcel": "^2.14.4",
+    "start": "^5.1.0",
+    "test": "^3.3.0"
+  }
+}
