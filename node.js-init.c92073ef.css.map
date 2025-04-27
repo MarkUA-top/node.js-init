@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;AAGA","sources":["src/css/style.css"],"sourcesContent":["h1 {\n    color: rgb(255, 175, 255);\n}\nbody {\n    background-color: rgba(70, 70, 70, 0.961);\n}"],"names":[],"version":3,"file":"node.js-init.c92073ef.css.map","sourceRoot":"/__parcel_source_root/"}
